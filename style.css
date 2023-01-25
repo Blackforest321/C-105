@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(172, 245, 193);
+}
+
+.heading
+{
+    font-size: 25px;
+    width:80%;
+}
+
+.name_obj
+{
+color: lightcoral;
+}
+
+#camera, #result
+{
+    border: lightcoral dashed;
+    width: 350px;
+    height:300px;
+}
+
+#capture
+{
+    background-color:lightpink;
+}
+
+#identify
+{
+    background-color:lightcoral;
+}
+
+span
+{
+color: lightcoral;
+}
